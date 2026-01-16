@@ -1,0 +1,11 @@
+**/packer.auto.pkrvars.hcl
+**/*.log
+**/*.log.*
+**/*.bak
+**/*.swp
+**/.DS_Store
+output-*
+packer_cache/
+*.iso
+.env
+**/Autounattend.xml

@@ -1,0 +1,3 @@
+- This sub folder is excluded from the rest of the project to include the env-to-vars.ps1 & build-all.ps1 scripts.
+- The folder is intended to be customized for different server builds and is expected to be changed often.
+- Static IP is set in the Autounattend.xml file
